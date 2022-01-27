@@ -1,4 +1,4 @@
-##BinarySearchTreeTraversalVisualizer
+**BinarySearchTreeTraversalVisualizer**
 
 
 This is a simple web app visualizing Tree Data structure traversal using React.
@@ -12,8 +12,8 @@ CHECKOUT THE LIVE APP HERE: https://binary-search-tree-visualizer.netlify.app/
 
  This project is completely built on React.
 
- Preparing Your Local Environment for Development
-
+** Preparing Your Local Environment for Development
+**
 Run the following commands to set up the development environment.
 
 ```sh
